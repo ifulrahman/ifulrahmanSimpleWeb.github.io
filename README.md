@@ -12,8 +12,8 @@
 - CSS
 
 ## How to use it :
-1. Download folder 'web_sederhana'
-2. Klik 'indeks.html' and open on browser buka menggunakan browser
+1. Download the folder from this repository
+2. Open and click on index.html, then open it using a browser.
 
 <i>OR</i>
 
