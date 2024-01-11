@@ -169,3 +169,7 @@ body {
    transition-property: transform;
  }
 
+ html {
+   scroll-behavior: smooth;
+ }
+
